@@ -52,7 +52,7 @@ const Footer: React.FC = () => {
           <div>
             <h4 className="text-lg font-semibold mb-4 text-white">Contact</h4>
             <ul className="space-y-2 text-dark-500">
-              <li className="hover:text-accent-500 transition-colors cursor-pointer">contact@burrot.com</li>
+              <li className="hover:text-accent-500 transition-colors cursor-pointer">contactburrot@gmail.com</li>
               <li className="hover:text-accent-500 transition-colors cursor-pointer">+1 (555) 123-4567</li>
                               <li className="hover:text-accent-500 transition-colors cursor-pointer">Dallas, Texas - USA<br />Khammam, Telangana, India</li>
             </ul>
